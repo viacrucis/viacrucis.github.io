@@ -1,0 +1,45 @@
+/*!
+ * Start Bootstrap - Simple Sidebar (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+ body {
+    overflow-x: hidden;
+ }
+
+ .navbar-static-top {
+    margin-bottom: 0px;
+}
+
+button.navbar-toggle {
+    float: left;
+    margin-left: 10px;
+}
+
+.mkt h2 {margin-top: 0px}
+.footer {background-color: #333;
+color:#777;
+
+font-size: 13px;
+}
+
+
+.footer h2 {font-size: 14px; font-weight: 600; color: #999; margin-bottom: 20px}
+
+
+.seccio{padding:50px 0; border-bottom: 1px solid #ccc}
+
+
+.w100{width: 100%}
+
+
+.jumbotron {padding:100px 0;}
+
+.loading {
+  position: absolute;
+  top: 0;
+  width: 500px;
+  height: 500px;
+  background: url('') center center no-repeat;
+}
